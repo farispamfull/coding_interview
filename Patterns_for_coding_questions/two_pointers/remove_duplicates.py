@@ -31,3 +31,5 @@ def remove_duplicates(arr):
 
 
 print(remove_duplicates([2, 3, 3, 3, 6, 9, 9, 9, 9, 12]))
+
+

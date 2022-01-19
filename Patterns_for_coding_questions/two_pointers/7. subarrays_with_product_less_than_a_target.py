@@ -37,3 +37,4 @@ def find_subarrays(arr, target):
             temp_list.appendleft(arr[i])
             result.append(list(temp_list))
     return result
+print(find_subarrays([1, 2, 3, 50,1,2], 10))
